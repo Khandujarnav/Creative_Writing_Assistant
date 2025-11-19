@@ -133,4 +133,4 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="orange", secondary_hue="blue"),
 # --- 6. LAUNCH ---
 if __name__ == "__main__":
     print("Starting app...")
-    demo.launch()
+    demo.launch(share=True)
