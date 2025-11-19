@@ -39,20 +39,12 @@ It also supports a **Bilingual Mode** that shows the **Hindi story + English tra
 
 ---
 
-## 🔑 Step 1: Get Your Free Gemini API Key
+## 🔑 Get Your Free Gemini API Key
 
 1. Go to **Google AI Studio**.  
 2. Sign in with your Google account.  
 3. Click **Create API key** → *Create API key in new project*.  
 4. Copy the key that starts with `AIza…`.
 
-You will need this key in the next step.
+Paste this key in app.py code file and save.
 
----
-
-## 🛠️ Step 2: Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/Hindi-Story-Writer.git
-cd Hindi-Story-Writer
